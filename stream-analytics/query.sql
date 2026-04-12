@@ -1,0 +1,1 @@
+-- Stream Analytics query will go here
