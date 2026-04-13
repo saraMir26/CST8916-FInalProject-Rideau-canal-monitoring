@@ -149,28 +149,28 @@ Uses a 5-minute tumbling window to calculate:
 ### Screenshots
 
 #### IoT Hub Devices
-![IoT Hub Devices](screenshots/01-iot-hub-devices.png)
+![IoT Hub Devices](Screenshots/01-iot-hub-devices.png)
 
 #### IoT Hub Metrics
-![IoT Hub Metrics](screenshots/02-iot-hub-metrics.png)
+![IoT Hub Metrics](Screenshots/02-iot-hub-metrics.png)
 
 #### Stream Analytics Query
-![Stream Analytics Query](screenshots/03-stream-analytics-query.png)
+![Stream Analytics Query](Screenshots/03-stream-analytics-query.png)
 
 #### Stream Analytics Running
-![Stream Analytics Running](screenshots/04-stream-analytics-running.png)
+![Stream Analytics Running](Screenshots/04-stream-analytics-running.png)
 
 #### Cosmos DB Data
-![Cosmos DB](screenshots/05-cosmos-db-data.png)
+![Cosmos DB](Screenshots/05-cosmos-db-data.png)
 
 #### Blob Storage Files
-![Blob Storage](screenshots/06-blob-storage-files.png)
+![Blob Storage](Screenshots/06-blob-storage-files.png)
 
 #### Dashboard Local
-![Dashboard Local](screenshots/07-dashboard-local.png)
+![Dashboard Local](Screenshots/07-dashboard-local.png)
 
 #### Dashboard Azure
-![Dashboard Azure](screenshots/08-dashboard-azure.png)
+![Dashboard Azure](Screenshots/08-dashboard-azure.png)
 
 ---
 
