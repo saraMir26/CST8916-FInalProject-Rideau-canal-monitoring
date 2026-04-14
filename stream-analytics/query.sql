@@ -1,3 +1,9 @@
+-- AI Usage Disclosure
+-- This query was developed with assistance from AI tools (ChatGPT)
+-- for aggregation logic and query structure.
+-- The final version was reviewed, tested, and modified.
+
+
 WITH AggregatedReadings AS
 (
     SELECT
