@@ -122,6 +122,12 @@ Uses a 5-minute tumbling window to calculate:
 
 ---
 
+## Video Demonstration
+
+- Video Demo: [YouTube Link](https://youtu.be/rsv1fcyqJlE)
+
+---
+
 ## Setup Instructions
 
 ### Prerequisites
